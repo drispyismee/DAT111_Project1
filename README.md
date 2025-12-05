@@ -4,7 +4,7 @@ Giai đoạn 2020 – 2023
 **Môn học**: Dự án 1 – DAT111  
 **Nhóm**: 03  
 **Trường**: Cao đẳng FPT Polytechnic  
-**GVHD**: Tân Văn Huy  
+**GVHD**: Trần Văn Huy  
 
 ---
 
