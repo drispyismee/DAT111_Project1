@@ -1,5 +1,5 @@
 # Phân tích Thị trường & Xu hướng Lương trong lĩnh vực Data & AI  
-Giai đoạn 2020 – 2024  
+Giai đoạn 2020 – 2023  
 
 **Môn học**: Dự án 1 – DAT111  
 **Nhóm**: 03  
